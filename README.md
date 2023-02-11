@@ -7,7 +7,7 @@
 
 This repository contains the following add-ons
 
-### [Example add-on](./example)
+### [Example add-on (Brody's modified)](./example)
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
@@ -29,7 +29,7 @@ _Example add-on to use as a blueprint for new add-ons._
 _TBD -- lovelace-kindle-screensaver._
 
 
-### [Lovelace Dashboard Screenshotter add-on (newer)](./lovelace-screenshotter)
+### [Lovelace Dashboard Screenshotter add-on (masterwendu)](./lovelace-screenshotter)
 
 ![Supports aarch64 Architecture][aarch64-shield]
 ![Supports amd64 Architecture][amd64-shield]
