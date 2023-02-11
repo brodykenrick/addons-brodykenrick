@@ -1,0 +1,12 @@
+{
+  "name": "Lovelace Screenshotter",
+  "version": "1.1.13",
+  "slug": "lovelace-kindle-screensaver",
+  "description": "Display a lovelace page as a screenshot image (for devices that can load an image e.g. Kindle or Inkplate)",
+  "url": "https://github.com/masterwendu/hass-lovelace-kindle-screensaver",
+  "arch": [
+    "armv7",
+    "aarch64",
+    "amd64"
+  ]
+}
