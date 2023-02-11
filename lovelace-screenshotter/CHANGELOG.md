@@ -1,0 +1,1 @@
+This is not really relevant (we are just pointing to another repo) - should it be deleted or just refer to https://github.com/masterwendu/hass-lovelace-kindle-screensaver?
